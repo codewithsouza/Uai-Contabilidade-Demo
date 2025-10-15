@@ -1,17 +1,7 @@
 # 💼 UAI Contabilidade — Landing Page Profissional
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/Cloud--Native-FF6B6B?style=for-the-badge" alt="Cloud Native">
-</div>
-
-<div align="center">
-  <h3>✨ Soluções Contábeis Integradas para o Sucesso do Seu Negócio ✨</h3>
+  <h3> Soluções Contábeis Integradas para o Sucesso do Seu Negócio </h3>
   <p><strong>Landing page moderna e responsiva para captação de clientes</strong></p>
 </div>
 
@@ -89,53 +79,31 @@ Formulário funcional para captação de leads e atendimento personalizado:
 
 ## 🛠️ Tecnologias Utilizadas
 
-### Frontend
-- **HTML5** — Estrutura semântica e otimizada para SEO
-- **CSS3** — Design responsivo, tipografia clara e tons corporativos
-- **JavaScript (Vanilla)** — Interatividade leve e funcional
-- **Design Responsivo** — Adaptável para desktop, tablet e mobile
+🎨 Frontend:
+Next.js 15.3.3 - Framework React para SSR/SSG
+React 18.3.1 - Biblioteca de interface
+TypeScript 5 - Linguagem tipada
+Tailwind CSS 3.4.1 - Framework CSS utilitário
+Radix UI - Componentes acessíveis
+Lucide React - Ícones
+Embla Carousel - Carrossel de depoimentos
 
-### Integração com Ferramentas e Ecossistema Cloud
+🔧 Backend:
+Next.js API Routes - API endpoints
+NextAuth.js - Autenticação
+Prisma - ORM para banco de dados
+PostgreSQL 15 - Banco de dados relacional
 
-A landing page foi desenvolvida com foco em integração e escalabilidade, seguindo as melhores práticas de desenvolvimento moderno:
+🐳 Infraestrutura:
+Docker - Containerização
+Docker Compose - Orquestração de containers
+Railway - Plataforma de deploy
+Node.js 18 - Runtime JavaScript
 
-#### 🔗 **Frameworks e Ferramentas Complementares**
-- **OPA (Open Policy Agent)** — Estrutura de políticas para validação de formulários e dados
-- **Gatekeeper** — Sistema de validação de entrada de dados do usuário
-- **ArgoCD e FluxCD** — Deploy contínuo e versionamento automático
-- **Prometheus / Grafana** — Monitoramento de performance e métricas de conversão
-
-#### 📊 **Frameworks de Compliance e Segurança**
-- **CIS Benchmarks** — Padrões de segurança implementados no desenvolvimento
-- **NIST** — Framework de compliance para proteção de dados sensíveis
-- **LGPD** — Conformidade com a Lei Geral de Proteção de Dados brasileira
-- **ISO 27001** — Padrões de segurança da informação aplicados
-
----
-
-## 🏗️ Arquitetura e Integração
-
-### 🔄 **Pipeline de Deploy Contínuo**
-- **ArgoCD** — GitOps para deploy automático da landing page
-- **FluxCD** — Sincronização contínua com repositório Git
-- **CI/CD** — Integração contínua para testes e validação
-
-### 📈 **Monitoramento e Observabilidade**
-- **Prometheus** — Coleta de métricas de performance e conversão
-- **Grafana** — Dashboards para análise de dados e KPIs
-- **Alertas** — Notificações automáticas para problemas de performance
-
-### 🔒 **Segurança e Compliance**
-- **OPA Policies** — Validação automática de formulários e dados
-- **Gatekeeper** — Controle de acesso e validação de entrada
-- **CIS Benchmarks** — Implementação de padrões de segurança
-- **NIST Framework** — Estrutura de segurança para dados sensíveis
-
-### 🌐 **Ecosistema Cloud-Native**
-- **Containerização** — Deploy em ambientes containerizados
-- **Microserviços** — Arquitetura modular e escalável
-- **API Gateway** — Gerenciamento de integrações externas
-- **Service Mesh** — Comunicação segura entre serviços
+📊 Banco de Dados:
+PostgreSQL - SGBD principal
+Prisma Client - Cliente de banco
+Prisma Migrate - Migrações de schema
 
 ---
 
@@ -175,6 +143,6 @@ Você pode utilizá-lo, modificá-lo e incluí-lo livremente no seu portfólio.
 ---
 
 <div align="center">
-  <p><strong>Desenvolvido com ❤️ para demonstrar profissionalismo, credibilidade e inovação em contabilidade</strong></p>
-  <p>✨ Soluções contábeis para otimizar a gestão do seu negócio ✨</p>
+  <p><strong>Desenvolvido para demonstrar profissionalismo, credibilidade e inovação em contabilidade</strong></p>
+  <p> Soluções contábeis para otimizar a gestão do seu negócio </p>
 </div>
